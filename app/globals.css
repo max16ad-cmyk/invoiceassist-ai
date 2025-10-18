@@ -1,0 +1,26 @@
+/* Globale Styles für InvoiceAssist */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: Inter, system-ui, Arial, sans-serif;
+  background-color: #f8fafc;
+  color: #111;
+}
+
+h1, h2, h3 {
+  color: #2b7bb9;
+}
+
+button {
+  background-color: #2b7bb9;
+  color: white;
+  border: none;
+  padding: 0.6rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1e5c8a;
+}
